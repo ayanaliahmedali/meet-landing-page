@@ -1,0 +1,149 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.img {
+    display: flex;
+    align-items: center;
+    margin-top: 80px;
+}
+
+header {
+    text-align: center;
+}
+
+.pragraph p {
+    text-align: center;
+    font-size: 15px;
+    line-height: 18px;
+    padding-top: 21px;
+    padding-left: 59px;
+    /* width: 434px; */
+    margin-right: 62px;
+}
+
+img.left {
+    width: 25%;
+}
+
+img.right {
+    width: 25%;
+}
+
+.pragraph {
+    /* padding-left: 180px; */
+    text-align: center;
+}
+
+.pragraph h1 {
+    padding-left: 151px;
+    /* text-align: center; */
+    width: 223px;
+}
+
+button.blue {
+    cursor: pointer;
+    background-color: #4d96a9;
+    color: #d0ecf2;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 35px;
+    margin-top: 25px;
+}
+
+button.purple {
+    cursor: pointer;
+    background-color: #855fb2;
+    color: #eadef3;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 35px;
+    margin-top: 25px;
+}
+
+.images {
+    padding-left: 70px;
+    padding-top: 78px;
+}
+
+.images img {
+    /* display: flex; */
+    padding-left: 15px;
+    width: 20%;
+}
+
+.footer-img span {
+    /* text-align: center; */
+    padding-left: 48%;
+}
+
+.footer-img {
+    /* width: 330%; */
+    padding-top: 22%;
+}
+
+.footer-aria h1 {
+    width: 32%;
+    padding-left: 333px;
+    padding-top: 21px;
+}
+
+.footer-aria {
+    text-align: center;
+    padding-top: 55px;
+}
+
+p.use {
+    color: #a0c9d2;
+    letter-spacing: 1px;
+}
+
+p.send {
+    width: 47%;
+    padding-left: 260px;
+    color: #adadb6;
+    line-height: 20px;
+    padding-top: 20px;
+}
+
+.last-footer {
+    background-image: url(./assets/desktop/image-footer.jpg);
+    display: flex;
+    align-items: center;
+    padding: 45px;
+    margin-top: 102px;
+}
+
+.last-footer span {
+    position: absolute;
+    top: 177%;
+    left: 49%;
+    background-color: white;
+    border-radius: 34px;
+    padding: 12px;
+}
+
+.last-footer h1 {
+    width: 39%;
+    color: white;
+}
+
+.last-footer p {
+    width: 34.5%;
+    color: white;
+}
+
+button.green {
+    margin-left: 152px;
+    cursor: pointer;
+    background-color: #855fb0;
+    color: #e7deea;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 35px;
+}
+
